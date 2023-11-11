@@ -32,7 +32,4 @@ langkah-langkah yang dilakukan adalah:
    d. git remote add <nama file> <link url github clone>
    e. git push
 
-<img src="C:\Users\PRASETYO BINTANG\Videos\Captures\buildGradle.png">
-
-
 !["screenshot buildGradle"](image.png)
