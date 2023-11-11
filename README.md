@@ -35,3 +35,4 @@ langkah-langkah yang dilakukan adalah:
 <img src="C:\Users\PRASETYO BINTANG\Videos\Captures\buildGradle.png">
 
 
+!["screenshot buildGradle"](image.png)
